@@ -1,1 +1,2 @@
-alert("editado");
+var sopla = "ptmre";
+alert(sopla);
